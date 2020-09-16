@@ -1,5 +1,7 @@
 # AngularTicTacToe
 
+[Link to the hosting project](https://tic-tac-toe-2c068.web.app)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
 
 ## Development server
